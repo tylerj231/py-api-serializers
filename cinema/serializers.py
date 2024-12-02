@@ -3,8 +3,6 @@ from cinema.models import (Actor,
                            CinemaHall,
                            Movie,
                            MovieSession,
-                           Order,
-                           Ticket,
                            Genre)
 
 
